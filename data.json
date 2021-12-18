@@ -1,0 +1,38 @@
+{
+    "cards":[{
+        "img":"images/img 1.jpg",
+        "name":"Vivo",
+        "company":"Divya_divi",
+        "rate":"10000",
+        "offer":"8500",
+        "button":"View"
+    },{
+       
+            "img":"images/img 2.jpg",
+            "name":"Oppo",
+            "company":"Divya_divi",
+            "rate":"15000",
+            "offer":"12500",
+            "button":"View"
+    },{
+       
+                "img":"images/img 3.jpg",
+                "name":"Iphone",
+                "company":"Divya_divi",
+                "rate":"70000",
+                "offer":"60000",
+                "button":"View"
+    
+    },{
+
+            "img":"images/img 4.jpg",
+            "name":"Realme",
+            "company":"Divya_divi",
+            "rate":"20000",
+            "offer":"18500",
+            "button":"View"                        
+    }
+
+    ]
+       
+}
